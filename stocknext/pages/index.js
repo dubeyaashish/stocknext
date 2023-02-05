@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-           Aashish Dubey 
+            Aashish Dubey
           </p>
           <div>
             <a
